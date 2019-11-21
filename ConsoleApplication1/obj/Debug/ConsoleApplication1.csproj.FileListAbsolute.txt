@@ -1,0 +1,12 @@
+I:\Aula 17-08\ListaContatos\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+I:\Aula 17-08\ListaContatos\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+I:\Aula 17-08\ListaContatos\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+I:\Aula 17-08\ListaContatos\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+I:\Aula 17-08\ListaContatos\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+I:\Aula 17-08\ListaContatos\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\Aula 17-08\ListaContatos\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Aula 17-08\ListaContatos\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Aula 17-08\ListaContatos\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Paulinha\Desktop\Federal\4º Semestre\ED2 - Marco A\Aula 08-17\ListaContatos\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Paulinha\Desktop\Federal\4º Semestre\ED2 - Marco A\Aula 08-17\ListaContatos\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Paulinha\Desktop\Federal\4º Semestre\ED2 - Marco A\Aula 08-17\ListaContatos\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
